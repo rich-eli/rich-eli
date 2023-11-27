@@ -1,6 +1,5 @@
 ### Hi there I'm Elia 👋
 
-:computer:**`Developer`**
 
 🌱 I’m currently learning Web Development
 
