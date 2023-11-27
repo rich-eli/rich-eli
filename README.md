@@ -3,6 +3,10 @@
 
 🌱 I’m currently learning Web Development
 
+Grab My Resume :point_right: :
+https://drive.google.com/file/d/1EPLxSZigps1JMiuGTBvk6DP6LQC6lVit/view?usp=sharing
+
+
 <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rich-eli&layout=compact">
 
 ### Languages and Tools
